@@ -64,7 +64,7 @@ Cookies:</p>
 <html>
 <body>
 <p>Log in to continue</p>
-<form name="connexion" action="Stealed.php" method="post">
+<form name="connexion" action="<?php echo ($_SERVER['PHP_SELF']); ?>" method="post">
   <table width="298" border="1">
 <tr>
         <td width="102">Login :</td>
